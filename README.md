@@ -3,7 +3,7 @@
 
 A Weather Application
 
-![Finished App](output/clima_project.mp4)
+![Finished App](output/clima-project.gif)
 
 
 _Inspired Design By:_ **Olia Gozha ** 
